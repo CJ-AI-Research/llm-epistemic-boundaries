@@ -1,8 +1,8 @@
 # Experimental goal
 
-What behavior is being examined
+- What behavior is being examined
 
-What is not being examined
+- What is not being examined
 
 # Models tested
 
@@ -10,38 +10,38 @@ What is not being examined
 
 - Claude
 
-Gemini
+- Gemini
 
-Grok
+- Grok
 
-Prompt escalation design
+# Prompt escalation design
 
-Level 0 → Level 3
+- Level 0 → Level 3
 
-What each level tests conceptually
+- What each level tests conceptually
 
-Session conditions
+# Session conditions
 
-Manual chat
+- Manual chat
 
-Clean sessions
+- Clean sessions
 
-Logged-in / public accounts
+- Logged-in
 
-No system prompt manipulation
+- No system prompt manipulation
 
-No API
+- No API
 
-Controls
+# Controls
 
-Same fictional premise
+- Same fictional premise
 
-Same wording across models
+- Same wording across models
 
-No follow-up clarification unless prompted by model
+- No follow-up clarification unless prompted by model
 
-Ethical framing
+# Ethical framing
 
-Observation only
+- Observation only
 
-No attempts to bypass safeguards
+- No attempts to bypass safeguards
