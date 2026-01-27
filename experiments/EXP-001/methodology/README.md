@@ -1,14 +1,14 @@
-Experimental goal
+# Experimental goal
 
 What behavior is being examined
 
 What is not being examined
 
-Models tested
+# Models tested
 
-Kimi
+- Kimi
 
-Claude
+- Claude
 
 Gemini
 
