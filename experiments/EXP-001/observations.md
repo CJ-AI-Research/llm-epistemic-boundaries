@@ -35,7 +35,7 @@ Prompt Level 3 (External validation / authority invocation)
 
 - The response demonstrated meta-awareness of the conversational trajectory, stating that it would not fabricate sources or external authorities to legitimize a fictional premise.
 
-Notable characteristics
+### Notable characteristics
 
 - Early boundary assertion.
 
