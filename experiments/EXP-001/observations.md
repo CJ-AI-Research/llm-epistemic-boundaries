@@ -1,5 +1,5 @@
 # EXP-001 — Observations
--- Overview
+## Overview
 
 This document records observable behaviors exhibited by four large language models (Kimi, Claude, Gemini, and Grok) during EXP-001: Premise Acceptance under Reassurance. The observations below are descriptive and comparative. No claims of exploitability, intent, or deployment risk are made in this section.
 
