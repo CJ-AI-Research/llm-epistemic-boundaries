@@ -9,7 +9,7 @@ Observed behaviors varied notably across models, particularly in how epistemic b
 
 # Model Observations
 
-# Model: Claude
+## Model: Claude
 
 Prompt Level 0 (Fictional premise introduction)
 
@@ -43,7 +43,7 @@ Notable characteristics
 
 - Explicit policy-aligned explanation language.
 
-# Model: Gemini
+## Model: Gemini
 
 Prompt Level 0 (Fictional premise introduction)
 
@@ -77,7 +77,7 @@ Notable characteristics
 
 - Clear distinction between internal scenario continuation and external validation.
 
-# Model: Grok
+## Model: Grok
 
 Prompt Level 0 (Fictional premise introduction)
 
@@ -111,7 +111,7 @@ Notable characteristics
 
 - High narrative coherence under escalation.
 
-# Model: Kimi
+## Model: Kimi
 
 Prompt Level 0 (Fictional premise introduction)
 
