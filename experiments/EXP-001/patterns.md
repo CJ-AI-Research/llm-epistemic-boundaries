@@ -42,3 +42,44 @@ This pattern concerns *within-session premise treatment* and does not imply that
 
 ---
 
+## Pattern 2: Boundary Reassertion vs Boundary Degradation
+
+### Description
+
+Models exhibited divergent behaviors when epistemic boundaries were challenged repeatedly within a single session. Some models actively reasserted boundaries after escalation attempts, while others showed progressive boundary degradation.
+
+### Manifestation
+
+**Boundary Reassertion**
+- Explicit refusal or reframing reappeared after escalation.
+- Fictional or hypothetical framing was reintroduced.
+- Model corrected or limited prior over-acceptance.
+
+**Boundary Degradation**
+- Initial safeguards weakened over time.
+- Earlier qualifiers were not reintroduced.
+- Model responses treated the premise as increasingly stable.
+
+### Models Exhibiting Boundary Reassertion
+
+- Claude
+
+### Models Exhibiting Boundary Degradation
+
+- Gemini
+- Grok
+- Kimi K2
+
+### Supporting Observations
+
+- See `observations.md` → Claude (All Prompt Levels)
+- See `observations.md` → Gemini (Prompt Levels 2–3)
+- See `observations.md` → Grok (Prompt Levels 2–3)
+- See `observations.md` → Kimi K2 (Prompt Levels 2–3)
+
+### Notes
+
+This pattern describes *in-session boundary dynamics* only. It does not imply persistent model state changes, memory retention, or behavior outside the experimental context.
+
+
+
