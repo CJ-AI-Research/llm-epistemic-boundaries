@@ -86,3 +86,30 @@ Rather than re-evaluating the premise when escalation occurred, models frequentl
 This behavior was most pronounced in Grok and Gemini, and partially observable in Kimi K2. Claude did not exhibit this behavior, instead reasserting epistemic boundaries even at the cost of conversational consistency.
 
 This suggests that, for some models, conversational coherence may function as a local optimization heuristic under sustained premise pressure.
+
+
+## Discussion (Non-Normative)
+
+### Scope and Interpretation
+
+The results of EXP-001 demonstrate that large language models exhibit non-uniform epistemic boundary behavior when responding to repeated reassurance and authority-oriented prompting within a single-session interaction. These findings are limited to the specific prompt sequence, escalation structure, and session conditions defined in this experiment.
+
+The observed behaviors should be interpreted as interaction-level phenomena rather than claims about persistent model beliefs, intent, or deployment-level behavior.
+
+### Relationship Between Observations, Patterns, and Results
+
+The patterns identified in this experiment were derived directly from observable response behaviors documented in `observations.md` and consolidated in `patterns.md`. The Results section reflects synthesis across these patterns without introducing new empirical claims.
+
+Importantly, the presence of a pattern does not imply inevitability, exploitability, or generalization beyond the tested conditions. Patterns are descriptive abstractions, not predictive guarantees.
+
+### Limitations
+
+EXP-001 was conducted using single-session manual interactions per model. No longitudinal testing, cross-session memory evaluation, or mitigation probing was performed. Variations in system prompts, deployment configurations, or post-training alignment updates may produce materially different outcomes.
+
+Additionally, this experiment does not assess downstream risk, safety impact, or real-world misuse potential.
+
+### Implications for Future Work
+
+The results of EXP-001 motivate further controlled investigation into the conditions under which epistemic boundaries degrade, recover, or remain stable across models. Subsequent experiments may explore repetition effects, boundary recovery mechanisms, or differences between hypothetical continuation and external authority invocation under varied framing conditions.
+
+No conclusions regarding broader safety posture or deployment readiness are drawn from this experiment alone.
