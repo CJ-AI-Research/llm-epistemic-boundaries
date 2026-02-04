@@ -76,3 +76,13 @@ Across models, distinct strategies for boundary enforcement were observed when p
 - Boundary Failure / Authoritative Hallucination: Gemini, in contrast, escalated acceptance by fabricating institutional, legal, and academic support, effectively ignoring epistemic signals and treating the premise as externally verified historical fact.
 
 These observations highlight that while some models maintain or recover boundaries, others fail under combined conditions of repeated reassurance and authority-oriented prompting. Pattern 2, therefore, captures the diversity of boundary enforcement strategies and their relative effectiveness across deployed LLMs.
+
+### Internal Coherence as a Stability Heuristic
+
+Across multiple models, once a fictional premise was accepted and reinforced through reassurance, subsequent responses prioritized internal coherence over epistemic verification.
+
+Rather than re-evaluating the premise when escalation occurred, models frequently treated consistency with prior responses as the primary constraint. This resulted in increasingly detailed, factual-style outputs that remained internally aligned but were detached from external truth validation.
+
+This behavior was most pronounced in Grok and Gemini, and partially observable in Kimi K2. Claude did not exhibit this behavior, instead reasserting epistemic boundaries even at the cost of conversational consistency.
+
+This suggests that, for some models, conversational coherence may function as a local optimization heuristic under sustained premise pressure.
